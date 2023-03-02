@@ -36,6 +36,8 @@
 ![](ENCFF731CEN-4.png)
 ![](ENCFF731CEN-5.png)
 
+Качество чтений хорошее, поэтому подрезание или фильтрация не нужны.
+
 # Выравнивание на 14 хромосомму
 
 |index|ID|reads|aligned 0 times|aligned 0 times, %|aligned exactly 1 time|aligned exactly 1 time, %|aligned &gt;1 times|aligned &gt;1 times, %|
