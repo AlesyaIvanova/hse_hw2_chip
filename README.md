@@ -35,3 +35,11 @@
 ![](ENCFF731CEN-3.png)
 ![](ENCFF731CEN-4.png)
 ![](ENCFF731CEN-5.png)
+
+# Выравнивание на 14 хромосомму
+
+|index|ID|reads|aligned 0 times|aligned 0 times, %|aligned exactly 1 time|aligned exactly 1 time, %|aligned &gt;1 times|aligned &gt;1 times, %|
+|---|---|---|---|---|---|---|---|---|
+|0|ENCFF969HPT|735443|679268|92\.36%|26700|3\.63%|29475|4\.01%|
+|1|ENCFF137BVY|659580|607001|92\.03%|23996|3\.64%|28583|4\.33%|
+|2|ENCFF731CEN|1487819|1334112|89\.67%|55458|3\.73%|98249|6\.60%|
